@@ -13,3 +13,11 @@ body {
   font-family: Arial, sans-serif;
   background-color: #ffffff;
 }
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 1140px;
+    height: 100vh;
+}
