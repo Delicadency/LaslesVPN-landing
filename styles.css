@@ -10,14 +10,14 @@ body {
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Rubik", sans-serif;
   background-color: #ffffff;
 }
-.flex-center{
-    display: flex;
-    justify-content: center;
+.flex-center {
+  display: flex;
+  justify-content: center;
 }
 .container {
-    width: 1140px;
-    height: 100vh;
+  width: 1140px;
+  height: 100vh;
 }
