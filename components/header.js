@@ -14,7 +14,7 @@ const template = `
 }
     </style>
     <header>
-    <div>${logo}</div>
+    <a href="/#">${logo}</a>
     <header-nav></header-nav>
     <login-container></login-container>
     </header>
