@@ -11,7 +11,7 @@ const template = (variant, href, textContent) => `
     color: #F53855;
     background-color: #ffffff;
     border: solid 1px #F53855;
-    border-radius: 50%;
+    border-radius: 50px;
     transition: all 0.3s ease, transform 0.2s ease;
     box-shadow: 0 0 0 rgba(0, 0, 0, 0);
   }
@@ -35,7 +35,7 @@ const template = (variant, href, textContent) => `
     font-weight: 700;
     color: #ffffff;
     background-color: #F53855;
-    border-radius: 10%;
+    border-radius: 10px;
     transition: all 0.3s ease, transform 0.2s ease;
     box-shadow: 0 10px 10px rgba(245, 56, 56, 0.3);
   }
@@ -75,4 +75,4 @@ class Button extends HTMLElement {
   }
 }
 
-customElements.define("custom-button", Button);
+customElements.define("button-component", Button);

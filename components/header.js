@@ -1,4 +1,5 @@
 import "./header-nav.js";
+import "./header-login-cont.js";
 
 const response = await fetch("./images/logo.svg");
 const logo = await response.text();
@@ -15,6 +16,7 @@ const template = `
     <header>
     <div>${logo}</div>
     <header-nav></header-nav>
+    <login-container></login-container>
     </header>
     `;
 
