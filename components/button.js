@@ -37,7 +37,7 @@ const template = (variant, href, textContent) => `
     background-color: #F53855;
     border-radius: 10px;
     transition: all 0.3s ease, transform 0.2s ease;
-    box-shadow: 0 10px 10px rgba(245, 56, 56, 0.3);
+    box-shadow: 0 20px 20px rgba(245, 56, 56, 0.3);
   }
 
   a.red-squared:hover {

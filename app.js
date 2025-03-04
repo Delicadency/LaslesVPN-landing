@@ -1,1 +1,2 @@
-import "./components/header.js"
+import "./components/header.js";
+import "./components/hero.js";
