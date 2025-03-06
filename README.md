@@ -52,8 +52,10 @@ To run the project locally, make sure you have:
 2. **Navigate to the Project Directory**
 
 Change into the project folder:
-```bash  cd LaslesVPN-landing
+```
+cd LaslesVPN-landing
 
+```
 ## Running Locally
 
 There are two simple methods to run the landing page locally:
