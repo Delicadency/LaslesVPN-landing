@@ -21,9 +21,8 @@ The LaslesVPN Landing Page is designed to provide an attractive and user-friendl
 
 ## Features
 
-- **Responsive Design:** Layout adjusts seamlessly across desktops, tablets, and mobile devices.
+- **Responsive Design: (to be implemented)** Layout adjusts seamlessly across desktops, tablets, and mobile devices.
 - **Modern Aesthetics:** Utilizes a clean and contemporary design language.
-- **Interactive Elements:** Engaging animations and JavaScript-powered interactions.
 - **Static Setup:** Easy to host on any web server or open directly in the browser.
 
 ## Template Credit
