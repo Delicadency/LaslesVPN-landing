@@ -8,6 +8,7 @@ section{
   flex-direction: row;
   height: fit-content;
   gap: 40px;
+  padding-bottom: 100px;
 }
 article{
   display:flex;
@@ -46,7 +47,7 @@ span{
 <p>Provide a network for all your needs with ease and fun using <span>LaslesVPN</span> discover interesting features from us.</p>
   <button-component variant="red-squared">Get Started</button-component>
 </article>
-<img src="/images/illustration-hero.png" alt="Simple illustration of a guy who is searching solutions browsing WEB on his laptop">
+<img src="./images/illustration-hero.png" alt="Simple illustration of a guy who is searching solutions browsing WEB on his laptop">
 </section>
 `;
 
