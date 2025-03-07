@@ -1,9 +1,9 @@
 const navData = [
-  { name: "About", href: "/#" },
-  { name: "Features", href: "/#" },
-  { name: "Pricing", href: "/#" },
-  { name: "Testimonials", href: "/#" },
-  { name: "Help", href: "/#" },
+  { name: "About", href: "./#" },
+  { name: "Features", href: "./#" },
+  { name: "Pricing", href: "./#" },
+  { name: "Testimonials", href: "./#" },
+  { name: "Help", href: "./#" },
 ];
 
 const template = `
