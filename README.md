@@ -21,9 +21,8 @@ The LaslesVPN Landing Page is designed to provide an attractive and user-friendl
 
 ## Features
 
-- **Responsive Design:** Layout adjusts seamlessly across desktops, tablets, and mobile devices.
+- **Responsive Design: (to be implemented)** Layout adjusts seamlessly across desktops, tablets, and mobile devices.
 - **Modern Aesthetics:** Utilizes a clean and contemporary design language.
-- **Interactive Elements:** Engaging animations and JavaScript-powered interactions.
 - **Static Setup:** Easy to host on any web server or open directly in the browser.
 
 ## Template Credit
@@ -52,8 +51,10 @@ To run the project locally, make sure you have:
 2. **Navigate to the Project Directory**
 
 Change into the project folder:
-```bash  cd LaslesVPN-landing
+```
+cd LaslesVPN-landing
 
+```
 ## Running Locally
 
 There are two simple methods to run the landing page locally:
